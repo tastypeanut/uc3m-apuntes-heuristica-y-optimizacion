@@ -48,9 +48,9 @@ Esto es un esfuerzo para recopilar apuntes de calidad que faciliten el estudio d
 
 ## Notas
 
-Estos apuntes representan muchas horas de trabajo y estudio, pero no garantizo que no haya ningún error. Si detectas alguno, por favor ponte en contacto comigo para poder emitir una corrección. 
+Estos apuntes representan muchas horas de trabajo y estudio, pero no garantizo que no haya ningún error, y no me hago responsable de ellos. Si detectas alguno, por favor ponte en contacto comigo para poder emitir una corrección. 
 
-No me hago responsable de posibles errores en los apuntes. Asegurate de utilizar los ejercicios de exámenes anteriores de apoyo, por lo general vienen muy bien explicados.
+Asegurate de utilizar los ejercicios de exámenes anteriores de apoyo, por lo general vienen muy bien explicados, y la asignatura no se puede aprobar sin hacerlos.
 
 Aunque necesites la piedra de rosetta para descifrarlas, las diapositivas de teoría también pueden ayudar con algunas de las cosas que faltan.
 
